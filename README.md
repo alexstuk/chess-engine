@@ -1,4 +1,4 @@
-# Chess-Engine
+# Chess Engine
 
 
 This softwear allows to collect chess positions and train the model that can be used as a chess engine. 
