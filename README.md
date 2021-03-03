@@ -11,7 +11,7 @@ https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CHESS_DNN_2018.pdf
 
 https://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf
 
-All positions used for training are labeled with Fish engine as wining or loosing and represented as a binary vector.
+All positions used for training are labeled with Stockfish engine as wining or loosing and represented as a binary vector.
 
 Selecter.py selelcts and saves in a file positions from games in a FEN format.
 
