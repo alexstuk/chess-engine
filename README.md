@@ -15,9 +15,9 @@ All positions used for training are labeled with Stockfish engine as wining or l
 
 Selecter.py selelcts positions from games in a FEN format and them in a file in binary format.
 
-Training.py loads the positions from the file and trains the model.
+Trainer.py loads the positions from the file and trains the model.
 
-Testing.py allows to play against the trained model. 
+Tester.py allows to play against the trained model. 
   
 To avoid bias positions have to be picked:
 1. Number of wining/loosing positions for both black/white sides is equal
