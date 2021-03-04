@@ -19,7 +19,7 @@ Trainer.py loads the positions from the file and trains the model.
 
 Tester.py allows to play against the trained model. 
   
-To avoid bias positions have to be picked:
+To avoid bias positions for training have to be picked:
 1. Number of wining/loosing positions for both black/white sides is equal
 2. Number of wininng postions with more material equals to number of winining positions with less material
 3. Number of positions where the making next move side wins equals to number of positions where the making next move side loses
