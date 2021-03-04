@@ -1,9 +1,9 @@
 # Chess Engine
 
 
-This softwear allows to collect chess positions and train the model that can be used as a chess engine. 
+This softwear collects chess positions and trains the ML model that can be used as a chess engine. 
 
-It is made with TensorFlow and reinforcement machine learning. 
+The trianing is done with TensorFlow and reinforcement machine learning. 
 
 The idea is borrowed from the following research papers:
 
